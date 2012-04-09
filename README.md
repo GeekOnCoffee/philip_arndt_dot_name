@@ -1,4 +1,4 @@
-Philip Arndt is a dude, who does open source stuff. 
+Philip Arndt is a guy, who does open source stuff. 
 
 [Github](https://github.com/parndt)
 [Twitter](https://twitter.com/parndt)
